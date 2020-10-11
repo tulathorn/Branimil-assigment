@@ -1,0 +1,11 @@
+{
+  "name": "Branimil-assigment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tulathorn/Branimil-assigment.git",
+  "author": "tulathorn <tul.tulathorn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
